@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning TypeScript
+🌱 I’m currently learning stuff
 
 📫 How to reach me: 
 * [Twitter](https://twitter.com/danielturus)
