@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning stuff
+🌱 I’m always open to learning new stuff
 
 📫 How to reach me: 
 * [Twitter](https://twitter.com/danielturus)
