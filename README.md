@@ -9,6 +9,7 @@
 Favorite quotes:
 * Standing on the shoulders of giants. [↗️ url](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 * Focus on the goals not the means.
+* If you wait for inspiration you'll never get anything done.
 
 Some of my coding principles:
 * Code that is easy to read is easy to maintain.
