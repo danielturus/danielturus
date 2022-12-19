@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am a Full Stack JavaScript developer with over 5 years of experience.
+My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 5 years of experience.
 
 🌱 I’m always open to learning new stuff
 
 I'm passionate about:
+* solving problems (I really love when systems run optimally - or as good as possible)
 * (playing) table tennis
 * PC hardware components
 * clean designs
