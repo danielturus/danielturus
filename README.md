@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+I am a Full Stack JavaScript developer with over 5 years of experience.
+
 🌱 I’m always open to learning new stuff
+
+I'm passionate about:
+* (playing) table tennis
+* PC hardware components
+* clean designs
 
 📫 How to reach me: 
 * [Twitter](https://twitter.com/danielturus)
