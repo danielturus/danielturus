@@ -18,6 +18,7 @@ Favorite quotes:
 * Standing on the shoulders of giants. [↗️ url](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
 * Focus on the goals not the means.
 * If you wait for inspiration you'll never get anything done.
+* And you know what’s interesting, you know who the best managers are? They’re the great individual contributors, who never ever want to be a manager, but decide they have to be a manager because no one else is going to be able to do as good a job as them.
 
 Some of my coding principles:
 * Code that is easy to read is easy to maintain.
