@@ -2,6 +2,13 @@
 
 My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 5 years of experience.
 
+- 🌍 I'm based in Cluj Napoca, Romania
+- ✉️ You can contact me on [Skype](https://join.skype.com/invite/lxaJv2eUEgTt) or [Twitter](https://twitter.com/danielturus)
+- 🚀 I'm currently working at [Evozon](https://evozon.com)
+- 🧠 I'm learning Python 🐍
+- 🤝 I'm open to collaborating on interesting JavaScript projects
+- 🌱 I’m always open to learning new stuff
+
 ### Skills
 
 <p align="left">
@@ -17,19 +24,12 @@ My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 5 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielturus/danielturus/main/assets/svg/expressjs.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
-🌱 I’m always open to learning new stuff
-
 I'm passionate about:
 
 - solving problems (I really love when systems run optimally - or as good as possible)
 - (playing) table tennis
 - PC hardware components
 - clean designs
-
-📫 How to reach me:
-
-- [Twitter](https://twitter.com/danielturus)
-- [Skype](https://join.skype.com/invite/lxaJv2eUEgTt)
 
 Favorite quotes:
 
