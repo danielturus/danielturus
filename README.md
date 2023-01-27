@@ -38,6 +38,7 @@ Favorite quotes:
 - If you wait for inspiration you'll never get anything done.
 - And you know what’s interesting, you know who the best managers are? They’re the great individual contributors, who never ever want to be a manager, but decide they have to be a manager because no one else is going to be able to do as good a job as them. [src](https://youtu.be/rQKis2Cfpeo?t=130)
 - The greatest people are self-managing. They don’t need to be managed. Once they know what to do, they’ll go figure out how to do it and they don’t need to be managed at all. What they need is a common vision, and that’s what leadership is. What leadership is having a vision, being able to articulate that so the people around you can understand it, and getting a consensus on a common vision. [src](https://youtu.be/rQKis2Cfpeo)
+- You can be mad at the rain, but it will continue to fall
 
 Some of my coding principles:
 
