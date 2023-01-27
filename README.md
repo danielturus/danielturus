@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 5 years of experience.
+My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 6 years of experience.
 
 - 🌍 I'm based in Cluj Napoca, Romania
 - ✉️ You can contact me on [Skype](https://join.skype.com/invite/lxaJv2eUEgTt) or [Twitter](https://twitter.com/danielturus)
