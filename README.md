@@ -8,6 +8,7 @@ My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 6 
 - 🧠 I'm learning Python 🐍
 - 🤝 I'm open to collaborating on interesting JavaScript projects
 - 🌱 I’m always open to learning new stuff
+- I have published (one) npm package and (one) Microsoft Edge extension
 
 ### Skills
 
