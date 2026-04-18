@@ -3,9 +3,8 @@
 My name is Daniel Turuș and I am a Full Stack JavaScript developer with over 6 years of experience.
 
 - 🌍 I'm based in Cluj Napoca, Romania
-- ✉️ You can contact me on [Skype](https://join.skype.com/invite/lxaJv2eUEgTt), [Twitter](https://twitter.com/danielturus) or [LinkedIn](https://www.linkedin.com/in/daniel-turus/)
+- ✉️ You can contact me on [Twitter](https://twitter.com/danielturus) or [LinkedIn](https://www.linkedin.com/in/daniel-turus/)
 - 🚀 I'm currently working at [Evozon](https://evozon.com)
-- 🧠 I'm learning Python 🐍
 - 🤝 I'm open to collaborating on interesting JavaScript projects
 - 🌱 I’m always open to learning new stuff
 - I have published (one) npm package and (one) Microsoft Edge extension
